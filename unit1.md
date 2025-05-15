@@ -5,16 +5,16 @@ Big Data refers to vast, complex, and high-volume data sets that traditional dat
 ## Types of Digital Data
 
 ### Structured Data:
-Data that is organized into rows and columns (e.g., databases, spreadsheets).
+- Data that is organized into rows and columns (e.g., databases, spreadsheets).
 
 ### Unstructured Data:
-Data that does not have a predefined format (e.g., text files, videos, social media posts).
+- Data that does not have a predefined format (e.g., text files, videos, social media posts).
 
 ### Semi-structured Data:
-Data that is partially structured, often in formats like JSON or XML (e.g., log files, emails).
+- Data that is partially structured, often in formats like JSON or XML (e.g., log files, emails).
 
 ### Metadata:
-Data that describes other data, such as file size, creation date, and author.
+- Data that describes other data, such as file size, creation date, and author.
 
 ## History of Big Data Innovation
 
